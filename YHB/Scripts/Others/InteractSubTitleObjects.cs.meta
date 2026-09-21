@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: ac2192e047ba1cc488f34daf18502c63
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - subtitleChannel: {fileID: 11400000, guid: c6076b2461254df4e88aa9e581519e87, type: 2}
+  - interactSubTitleList: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
